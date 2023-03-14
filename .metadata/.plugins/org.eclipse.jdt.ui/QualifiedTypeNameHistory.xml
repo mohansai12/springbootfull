@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.ram.springboot.entities.Student"/>
+    <fullyQualifiedTypeName name="org.springframework.data.annotation.Id"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.recipies.repository.Ireciperepository"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.recipies.services.Irecipe"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.recipies.entities.Recipe"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.recipies.serviceImpl.RecipeserviceImpl"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.repository.IProductRepository"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.service.IProduct"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.entities.Product"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.repository.IVoteRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.service.Ivote"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.entity.vote"/>
+    <fullyQualifiedTypeName name="jakarta.transaction.Transactional"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.repository.IAdminRepository"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.service.IAdminService"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.entity.Admin"/>
+    <fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.repository.ICouponRepository"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.exceptions.CouponNotFoundException"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.service.ICoupon"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.entity.Coupon"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+    <fullyQualifiedTypeName name="com.kani.springboot.exceptions.UserNotFoundException"/>
+    <fullyQualifiedTypeName name="javax.persistence.Table"/>
+    <fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="com.example.springboot.exceptions.UserNotFoundException"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+</qualifiedTypeNameHistroy>

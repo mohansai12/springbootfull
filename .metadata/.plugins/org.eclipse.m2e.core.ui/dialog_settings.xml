@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\91836\Downloads\02-SpringBoot-Backend-20230120T105642Z-001\02-SpringBoot-Backend\EmployeeCURD-SpringBoot-ReactJS-Ram9"/>
+			<item value="C:\Users\91836\Downloads\02-SpringBoot-Backend-20230120T105642Z-001"/>
+			<item value="C:\Users\91836\Downloads\SB10-SpringBoot-Employee-CURD-RAM"/>
+			<item value="C:\Users\91836\Downloads\OnlinePlantNursery-Project-20230103T090544Z-001"/>
+			<item value="C:\Users\91836\Downloads\SB10-SpringBoot-Employee-CURD-RAM-20221229T202931Z-001"/>
+			<item value="C:\Users\91836\Workspace-Kani-Spring-SpringBoot\SB08-SpringBoot-DataJPA-CURD-RAM-20221228T093235Z-001"/>
+			<item value="C:\Users\91836\Workspace-Kani-Spring-SpringBoot\SB06-SpringBoot-DataJPA-Books-20221228T093231Z-001"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\91836\Workspace-Kani-Spring-SpringBoot\SB08-SpringBoot-DataJPA-CURD-RAM-20221228T093235Z-001\SB08-SpringBoot-DataJPA-CURD-RAM\src\main\java\com\ram\springboot\Sb08SpringBootDataJpaCurdRamApplication.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

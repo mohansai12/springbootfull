@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;SB10-SpringBoot-Employee-CURD-RAM&apos;" deleteContents="false" description="Delete resource &apos;SB10-SpringBoot-Employee-CURD-RAM&apos;" element1="/SB10-SpringBoot-Employee-CURD-RAM" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1673284819170"/>
+</session>

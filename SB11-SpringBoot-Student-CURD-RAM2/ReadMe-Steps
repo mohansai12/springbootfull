@@ -1,0 +1,59 @@
+MySQL
+Db Records :
+ create database mydb;
+ use mydb;
+ 
+ insert into student values(10,'ram',55000);
+ insert into student values(20,'Ramesh',65000);
+ insert into student values(30,'Kumar',95000);
+commit;
+
+Get :
+http://localhost:9999/student/getAll
+[
+    {
+        "studentId": 10,
+        "studentName": "ram",
+        "eSal": 55000
+    },
+    {
+        "empId": 20,
+        "empName": "raj",
+        "empSal": 65000
+    }
+]
+
+Post : Add records 
+http://localhost:9999/student/create
+{
+       
+        "empName": "Bhanu",
+        "empSal": 75000
+    }
+
+  Search ID :
+  GET
+  http://localhost:9999/student/getdetails/1
+   {
+    "empId": 1,
+    "empName": "Bhanu",
+    "empSal": 75000
+}
+
+Put : Update Record 
+http://localhost:9999/student/update
+Select Body : and raw
+{
+    "empId": 1,
+    "empName": "raviram",
+    "empSal": 78000
+}
+
+Delete : delete
+http://localhost:9999/student/delete/1
+Select Body : and raw
+{
+    "empId": 1,
+    "empName": "raviram",
+    "empSal": 78000
+}

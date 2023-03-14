@@ -1,0 +1,47 @@
+port no : 9091
+
+
+post : http://localhost:9091/Coupon/create
+     
+      {
+   "CouponId" : 1,
+   "couponName" : "pizza",
+   "couponStatus" : "Active",
+   "couponDescription" : "Buy 1500 get coupon 500 off"
+	}
+	
+	{
+   "CouponId" : 2,
+   "couponName" : "Burger",
+   "couponStatus" : "not Active",
+   "couponDescription" : "Buy 500 get coupon 100 off"
+	}
+	
+Get : http://localhost:9091/Coupon/getAll
+     
+       {
+        "couponId": 1,
+        "couponName": "pizza",
+        "couponStatus": null,
+        "couponDescription": null
+    },
+    {
+        "couponId": 2,
+        "couponName": "pizza",
+        "couponStatus": null,
+        "couponDescription": "Buy 1500 get coupon 500 off"
+    },
+    {
+        "couponId": 3,
+        "couponName": "pizza",
+        "couponStatus": "Active",
+        "couponDescription": "Buy 1500 get coupon 500 off"
+    },
+    {
+        "couponId": 4,
+        "couponName": "Burger",
+        "couponStatus": "not Active",
+        "couponDescription": "Buy 500 get coupon 100 off"
+    }
+
+    Delete : http://localhost:9091/Coupon/removeUser/id/3
